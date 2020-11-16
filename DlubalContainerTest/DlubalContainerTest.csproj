@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Dlubal.RSTAB8">
+      <HintPath>lib\Dlubal.RSTAB8.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
